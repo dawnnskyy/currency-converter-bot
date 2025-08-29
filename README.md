@@ -32,5 +32,9 @@ The bot is hosted on **Render** for 24/7 availability.
 ---
 
 ## Live Demo
-- **Render-hosted Flask app:** [https://currency-converter-bot-a722.onrender.com](https://currency-converter-bot-a722.onrender.com)  
-- **Telegram bot demo:** Open Telegram and search @cind_erella_bot, or use this link:  
+
+- The backend Flask app is hosted on **Render**: [https://currency-converter-bot-a722.onrender.com](https://currency-converter-bot-a722.onrender.com)  
+  *(This is a webhook endpoint; it responds to Telegram/ Dialogflow messages and is not a normal web page)*
+
+- To try the bot live, open Telegram and search the username @cind_erella_bot:
+

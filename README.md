@@ -37,4 +37,5 @@ The bot is hosted on **Render** for 24/7 availability.
   *(This is a webhook endpoint; it responds to Telegram/ Dialogflow messages and is not a normal web page)*
 
 - To try the bot live, open Telegram and search the username @cind_erella_bot:
+- here's the youtube link https://youtu.be/btxb37uWutU
 
